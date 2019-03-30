@@ -1,0 +1,2 @@
+# SyndiWeb
+Syndikaatti Solutions website
